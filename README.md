@@ -6,3 +6,4 @@
 
 为了区分由Typora与其他本地HTML文件，需要在文件名最后添加`-typora-markdown`才可以生效。
 
+![图例2](图例2.png)
